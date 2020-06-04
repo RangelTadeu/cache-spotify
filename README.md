@@ -22,8 +22,6 @@ A project to handle with cache and make Apps faster.
 
 ## Requirement
 
-- [Node.js](https://nodejs.org/en/)
-- [Yarn](https://yarnpkg.com/pt-BR/docs/install)
 - [Docker](https://www.docker.com/docker-community)
 - [Docker-Compose](https://docs.docker.com/compose/install/)
 
